@@ -6,7 +6,7 @@
 ---
 
 ## About
-I am a civil engineer specializing in water resources modeling, hydraulics, and hydrology. I bridge the gap between engineering and software by developing web-based dynamic visualization tools and "Digital Twin" technology to solve complex water management challenges.
+I am a civil engineer specializing in water resources modeling, hydraulics, and hydrology. I integrate engineering and software by developing web-based dynamic visualization tools and "Digital Twin" technology to solve complex water management challenges.
 
 I founded **Lillywhite Water Solutions LLC** to provide independent consulting and custom software solutions for the water industry.
 
