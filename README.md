@@ -25,8 +25,7 @@ The Integrated Agricultural and Municipal Demand-Delivery framework. This tool p
 
 ## Technical Expertise
 * **Water Resources Modeling:** GoldSim (Stochastic Simulation, Monte Carlo), Hydraulics & Hydrology.
-* **Software Development:** Python (FastAPI/Django), C++, JavaScript, Web-based Simulation.
-* **Spatial Analysis:** GIS integration (USDA SSURGO, NOAA GHCN) for environmental modeling.
+* **Software Development:** Python, Web-based Simulation.
 
 ## Contact
 I am available for project consulting and technical collaboration.
